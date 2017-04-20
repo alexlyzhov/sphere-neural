@@ -1,1 +1,1 @@
-# Sphere-NN
+# sphere-neural
